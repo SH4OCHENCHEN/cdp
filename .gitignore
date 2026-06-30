@@ -17,6 +17,7 @@ debug_video/
 exp/
 logs/
 baseline_result/
+d4rl_baselines_result/
 four_agents_non_visual_result/
 bc_iql_ifql_fbrac_rebrac_result/
 bc_iql_ifql_fql_fbrac_rebrac_result/
